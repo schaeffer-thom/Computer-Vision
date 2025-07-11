@@ -2,7 +2,7 @@
 
 # Thomas Schaeffer
 # 10/5/23
-
+ 
 # References: 
 # [1] https://stackoverflow.com/questions/403421/how-do-i-sort-a-list-of-objects-based-on-an-attribute-of-the-objects
 # [2] https://stackoverflow.com/questions/35166633/how-do-i-multiply-each-element-in-a-list-by-a-number
