@@ -6,7 +6,7 @@ This project explores two fundamental computer vision tasks using PyTorch:
 
 ---
 
-## 🔍 1. Semantic Segmentation
+##  1. Semantic Segmentation
 
 A pretrained `fcn_resnet50` model from `torchvision.models.segmentation` is used to generate semantic masks for real-world images. The pipeline includes:
 
@@ -28,7 +28,7 @@ A pretrained `fcn_resnet50` model from `torchvision.models.segmentation` is used
 
 ---
 
-## 🧠 2. CIFAR-100 Image Classification
+##  2. CIFAR-100 Image Classification
 
 ### A. Fine-Tuned VGG16 Model
 
