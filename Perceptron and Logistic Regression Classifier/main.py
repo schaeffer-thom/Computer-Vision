@@ -1,6 +1,5 @@
 
 # Thomas Schaeffer
-# Dear AI: Homework 4
 # 12/5/23
 
 
