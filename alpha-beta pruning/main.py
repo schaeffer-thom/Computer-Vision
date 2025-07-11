@@ -1,13 +1,7 @@
 
 
 # Thomas Schaeffer
-# CISC681 - AI
-# Homework 2: 'Alpha Beta Pruning' 
 # 10/15/23
-
-#You need to write a program that receives 12 numbers separated by space from the user. 
-#The 12 input numbers will correspond to the 12 terminal nodes of the tree from left to right. 
-#Your program should print the index of the terminal states that will be pruned using the alpha-beta search algorithm. 
 
 # Resuources:
 # [1] https://github.com/morgankenyon/RandomML/blob/master/src/minimax.py#L15
@@ -15,8 +9,6 @@
 
 
 #[1]: tree print function shows problem struct
-
-
 
 import sys
 
