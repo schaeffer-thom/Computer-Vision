@@ -25,15 +25,15 @@ I'm a Robotics Engineer with a background in **Mechanical Engineering** and a Ma
 
 ##  Recent Experience
 
-### 🚚 **Starship Technologies** – Autonomy Support Engineer  
+### 🚚 **Starship Technologies** – Robot Technician
 - Deployed and maintained a 26-robot delivery fleet in a live environment  
-- Diagnosed autonomy failures using ROS2, rqt, and custom tooling  
+- Diagnosed autonomy failures using ROS2, Jira, and Confluence and custom tooling  
 - Delivered root-cause analyses and proposed control system improvements  
 
 ### 🛠️ **UD Robotics Lab** – Robotics Researcher  
-- Developed a 6-DOF inverse kinematics model and motion planning tools  
-- Built robotic vision systems and object classifiers using PyTorch and OpenCV  
-- Supported embedded hardware integration and real-time data pipelines  
+- Designed joint space trajectories for stable forward walking motion in a bipedal robot
+- Performed constraint design and programmed bio-inspired optimization functions
+- Validated trajectories in physics-based engine, MuJoCo
 
 ---
 
