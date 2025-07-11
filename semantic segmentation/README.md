@@ -15,7 +15,7 @@ A pretrained `fcn_resnet50` model from `torchvision.models.segmentation` is used
 - Extracting and visualizing:
   - Raw feature maps
   - Predicted segmentation masks
-- Saving results to Google Drive using Google Colab
+
 
 ### Example Outputs:
 - Original image
@@ -24,7 +24,7 @@ A pretrained `fcn_resnet50` model from `torchvision.models.segmentation` is used
 
 > Model: `fcn_resnet50(pretrained=True)`  
 > Dataset: Custom real-world images  
-> Output: Semantic label masks saved to `/content/drive/MyDrive/`
+> Output: Semantic label masks
 
 ---
 
