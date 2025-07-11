@@ -1,8 +1,6 @@
 
 
 # Thomas Schaeffer
-# CISC681 - AI
-# Homework 1: 'Burnt Pankcake' 
 # 10/5/23
 
 # References: 
