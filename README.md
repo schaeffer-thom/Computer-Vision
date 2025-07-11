@@ -16,10 +16,10 @@ I'm a Robotics Engineer with a background in **Mechanical Engineering** and a Ma
   Semantic segmentation, object detection, and classical vision pipelines using PyTorch, OpenCV, and TensorFlow.
 
 - **Embedded & Real-Time Systems**  
-  C/C++ firmware, microcontroller integration, CAN, SPI, I2C, and custom PCBs for robotic control platforms.
+  C/C++ firmware and microcontroller integration for robotic control platforms.
 
 - **Full-Stack Robotics Software**  
-  ROS2 nodes, Dockerized services, custom tooling, and low-level device drivers in Python and C++.
+  ROS2 nodes and low-level device drivers in Python and C++.
 
 ---
 
