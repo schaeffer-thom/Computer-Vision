@@ -39,3 +39,18 @@ nn.Sequential(
     nn.Linear(256, image_size),
     nn.Tanh()
 )
+```
+
+### Discriminator
+Takes an image and predicts if it’s real or generated:
+
+```python
+nn.Sequential(
+    nn.Linear(image_size, 256),
+    nn.LeakyReLU(0.2),
+    nn.Linear(256, 128),
+    nn.LeakyReLU(0.2),
+    nn.Linear(128, 1),
+    nn.Sigmoid()
+)
+
