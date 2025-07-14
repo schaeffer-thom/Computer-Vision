@@ -1,6 +1,6 @@
 # Hi, I'm Thomas Schaeffer
 
-I'm a Robotics Engineer with a background in **Mechanical Engineering** and a Master's in **Robotics** from the University of Delaware. My work spans full-stack robotics, embedded systems, machine learning, and real-time control—built through hands-on experience in R&D and field deployment environments.
+I'm an Engineer with a Master's in **Robotics** and a Bachelor's in **Mechanical Engineering** from the University of Delaware. My work spans full-stack robotics, embedded systems, machine learning, and real-time control—built through hands-on experience in R&D and field deployment environments.
 
 ---
 
